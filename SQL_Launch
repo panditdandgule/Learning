@@ -1,0 +1,3 @@
+Launch MySQL with the command:
+
+sudo mysql –u root –p
